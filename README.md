@@ -1,5 +1,5 @@
 
-Click [here](github.com/DianaLRS/Lit-Wine-App/) to go to my Quora profile. 
+Click [here](github.com/DianaLRS/Lit-Wine-App/) to go to the app. 
 
 # Project-1
 
