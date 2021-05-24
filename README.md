@@ -1,5 +1,5 @@
 
-Click [here](github.com/DianaLRS/Lit-Wine-App/) to go to the app. 
+Click [here](https://dianalrs.github.io/Lit-Wine-App/) to go to the app. 
 
 # Project-1
 
