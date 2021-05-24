@@ -18,7 +18,6 @@ NYT Book Review API
 Open Weather Map API
 
 ```
-https://blegesse-git.github.io/Project-1/
 
 ## Process/What was Changed
 
